@@ -1,0 +1,2 @@
+G:\study\MobileFile\基于C#和MySQL实现的房屋租赁管理系统\商铺管理系统\RoomRentSystem\obj\x86\Debug\RoomRentSystem.exe
+G:\study\MobileFile\基于C#和MySQL实现的房屋租赁管理系统\商铺管理系统\RoomRentSystem\obj\x86\Debug\RoomRentSystem.pdb

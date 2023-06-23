@@ -1,0 +1,53 @@
+G:\study\MobileFile\基于C#和MySQL实现的房屋租赁管理系统\商铺管理系统\RoomRentSystem\obj\x86\Debug\RoomRentSystem.exe
+G:\study\MobileFile\基于C#和MySQL实现的房屋租赁管理系统\商铺管理系统\RoomRentSystem\obj\x86\Debug\RoomRentSystem.pdb
+G:\study\MobileFile\基于C#和MySQL实现的房屋租赁管理系统\商铺管理系统\RoomRentSystem\bin\Debug\RoomRentSystem.exe
+G:\study\MobileFile\基于C#和MySQL实现的房屋租赁管理系统\商铺管理系统\RoomRentSystem\bin\Debug\RoomRentSystem.pdb
+G:\study\MobileFile\基于C#和MySQL实现的房屋租赁管理系统\商铺管理系统\RoomRentSystem\obj\x86\Debug\StoreSystem.csprojResolveAssemblyReference.cache
+G:\study\MobileFile\基于C#和MySQL实现的房屋租赁管理系统\商铺管理系统\RoomRentSystem\obj\x86\Debug\RoomRentSystem.Billsinf.resources
+G:\study\MobileFile\基于C#和MySQL实现的房屋租赁管理系统\商铺管理系统\RoomRentSystem\obj\x86\Debug\RoomRentSystem.Currentuserpwdedit.resources
+G:\study\MobileFile\基于C#和MySQL实现的房屋租赁管理系统\商铺管理系统\RoomRentSystem\obj\x86\Debug\RoomRentSystem.Login.resources
+G:\study\MobileFile\基于C#和MySQL实现的房屋租赁管理系统\商铺管理系统\RoomRentSystem\obj\x86\Debug\RoomRentSystem.MainForm.resources
+G:\study\MobileFile\基于C#和MySQL实现的房屋租赁管理系统\商铺管理系统\RoomRentSystem\obj\x86\Debug\RoomRentSystem.Othersetting.resources
+G:\study\MobileFile\基于C#和MySQL实现的房屋租赁管理系统\商铺管理系统\RoomRentSystem\obj\x86\Debug\RoomRentSystem.Properties.Resources.resources
+G:\study\MobileFile\基于C#和MySQL实现的房屋租赁管理系统\商铺管理系统\RoomRentSystem\obj\x86\Debug\RoomRentSystem.Rentinf.resources
+G:\study\MobileFile\基于C#和MySQL实现的房屋租赁管理系统\商铺管理系统\RoomRentSystem\obj\x86\Debug\RoomRentSystem.Roominf.resources
+G:\study\MobileFile\基于C#和MySQL实现的房屋租赁管理系统\商铺管理系统\RoomRentSystem\obj\x86\Debug\RoomRentSystem.Userinf.resources
+G:\study\MobileFile\基于C#和MySQL实现的房屋租赁管理系统\商铺管理系统\RoomRentSystem\obj\x86\Debug\RoomRentSystem.Managerinf.resources
+G:\study\MobileFile\基于C#和MySQL实现的房屋租赁管理系统\商铺管理系统\RoomRentSystem\obj\x86\Debug\RoomRentSystem.Financeinf.resources
+G:\study\MobileFile\基于C#和MySQL实现的房屋租赁管理系统\商铺管理系统\RoomRentSystem\obj\x86\Debug\StoreSystem.csproj.GenerateResource.Cache
+G:\study\综合课程设计\基于C#和MySQL实现的商场商铺管理系统\商铺管理系统\RoomRentSystem\obj\x86\Debug\RoomRentSystem.exe
+G:\study\综合课程设计\基于C#和MySQL实现的商场商铺管理系统\商铺管理系统\RoomRentSystem\obj\x86\Debug\RoomRentSystem.pdb
+G:\study\综合课程设计\基于C#和MySQL实现的商场商铺管理系统\商铺管理系统\RoomRentSystem\bin\Debug\RoomRentSystem.exe
+G:\study\综合课程设计\基于C#和MySQL实现的商场商铺管理系统\商铺管理系统\RoomRentSystem\bin\Debug\RoomRentSystem.pdb
+G:\study\综合课程设计\基于C#和MySQL实现的商场商铺管理系统\商铺管理系统\RoomRentSystem\obj\x86\Debug\StoreSystem.csprojResolveAssemblyReference.cache
+G:\study\综合课程设计\基于C#和MySQL实现的商场商铺管理系统\商铺管理系统\RoomRentSystem\obj\x86\Debug\RoomRentSystem.Billsinf.resources
+G:\study\综合课程设计\基于C#和MySQL实现的商场商铺管理系统\商铺管理系统\RoomRentSystem\obj\x86\Debug\RoomRentSystem.Currentuserpwdedit.resources
+G:\study\综合课程设计\基于C#和MySQL实现的商场商铺管理系统\商铺管理系统\RoomRentSystem\obj\x86\Debug\RoomRentSystem.Login.resources
+G:\study\综合课程设计\基于C#和MySQL实现的商场商铺管理系统\商铺管理系统\RoomRentSystem\obj\x86\Debug\RoomRentSystem.MainForm.resources
+G:\study\综合课程设计\基于C#和MySQL实现的商场商铺管理系统\商铺管理系统\RoomRentSystem\obj\x86\Debug\RoomRentSystem.Othersetting.resources
+G:\study\综合课程设计\基于C#和MySQL实现的商场商铺管理系统\商铺管理系统\RoomRentSystem\obj\x86\Debug\RoomRentSystem.Properties.Resources.resources
+G:\study\综合课程设计\基于C#和MySQL实现的商场商铺管理系统\商铺管理系统\RoomRentSystem\obj\x86\Debug\RoomRentSystem.Rentinf.resources
+G:\study\综合课程设计\基于C#和MySQL实现的商场商铺管理系统\商铺管理系统\RoomRentSystem\obj\x86\Debug\RoomRentSystem.Roominf.resources
+G:\study\综合课程设计\基于C#和MySQL实现的商场商铺管理系统\商铺管理系统\RoomRentSystem\obj\x86\Debug\RoomRentSystem.Userinf.resources
+G:\study\综合课程设计\基于C#和MySQL实现的商场商铺管理系统\商铺管理系统\RoomRentSystem\obj\x86\Debug\RoomRentSystem.Managerinf.resources
+G:\study\综合课程设计\基于C#和MySQL实现的商场商铺管理系统\商铺管理系统\RoomRentSystem\obj\x86\Debug\RoomRentSystem.Financeinf.resources
+G:\study\综合课程设计\基于C#和MySQL实现的商场商铺管理系统\商铺管理系统\RoomRentSystem\obj\x86\Debug\StoreSystem.csproj.GenerateResource.Cache
+C:\Users\63575\Desktop\课设 赵依静 2017060102001 商场管理系统的实现\商场管理系统代码\商铺管理系统\RoomRentSystem\obj\x86\Debug\RoomRentSystem.exe
+C:\Users\63575\Desktop\课设 赵依静 2017060102001 商场管理系统的实现\商场管理系统代码\商铺管理系统\RoomRentSystem\obj\x86\Debug\RoomRentSystem.pdb
+C:\Users\63575\Desktop\课设 赵依静 2017060102001 商场管理系统的实现\商场管理系统代码(需要mysql和navicat才能运行)\商铺管理系统\RoomRentSystem\obj\x86\Debug\RoomRentSystem.exe
+C:\Users\63575\Desktop\课设 赵依静 2017060102001 商场管理系统的实现\商场管理系统代码(需要mysql和navicat才能运行)\商铺管理系统\RoomRentSystem\obj\x86\Debug\RoomRentSystem.pdb
+C:\Users\63575\Desktop\课设 赵依静 2017060102001 商场管理系统的实现\商场管理系统代码(需要mysql和navicat才能运行)\商铺管理系统\RoomRentSystem\bin\Debug\RoomRentSystem.exe
+C:\Users\63575\Desktop\课设 赵依静 2017060102001 商场管理系统的实现\商场管理系统代码(需要mysql和navicat才能运行)\商铺管理系统\RoomRentSystem\bin\Debug\RoomRentSystem.pdb
+C:\Users\63575\Desktop\课设 赵依静 2017060102001 商场管理系统的实现\商场管理系统代码(需要mysql和navicat才能运行)\商铺管理系统\RoomRentSystem\obj\x86\Debug\StoreSystem.csprojResolveAssemblyReference.cache
+C:\Users\63575\Desktop\课设 赵依静 2017060102001 商场管理系统的实现\商场管理系统代码(需要mysql和navicat才能运行)\商铺管理系统\RoomRentSystem\obj\x86\Debug\RoomRentSystem.Billsinf.resources
+C:\Users\63575\Desktop\课设 赵依静 2017060102001 商场管理系统的实现\商场管理系统代码(需要mysql和navicat才能运行)\商铺管理系统\RoomRentSystem\obj\x86\Debug\RoomRentSystem.Currentuserpwdedit.resources
+C:\Users\63575\Desktop\课设 赵依静 2017060102001 商场管理系统的实现\商场管理系统代码(需要mysql和navicat才能运行)\商铺管理系统\RoomRentSystem\obj\x86\Debug\RoomRentSystem.Login.resources
+C:\Users\63575\Desktop\课设 赵依静 2017060102001 商场管理系统的实现\商场管理系统代码(需要mysql和navicat才能运行)\商铺管理系统\RoomRentSystem\obj\x86\Debug\RoomRentSystem.MainForm.resources
+C:\Users\63575\Desktop\课设 赵依静 2017060102001 商场管理系统的实现\商场管理系统代码(需要mysql和navicat才能运行)\商铺管理系统\RoomRentSystem\obj\x86\Debug\RoomRentSystem.Othersetting.resources
+C:\Users\63575\Desktop\课设 赵依静 2017060102001 商场管理系统的实现\商场管理系统代码(需要mysql和navicat才能运行)\商铺管理系统\RoomRentSystem\obj\x86\Debug\RoomRentSystem.Properties.Resources.resources
+C:\Users\63575\Desktop\课设 赵依静 2017060102001 商场管理系统的实现\商场管理系统代码(需要mysql和navicat才能运行)\商铺管理系统\RoomRentSystem\obj\x86\Debug\RoomRentSystem.Rentinf.resources
+C:\Users\63575\Desktop\课设 赵依静 2017060102001 商场管理系统的实现\商场管理系统代码(需要mysql和navicat才能运行)\商铺管理系统\RoomRentSystem\obj\x86\Debug\RoomRentSystem.Roominf.resources
+C:\Users\63575\Desktop\课设 赵依静 2017060102001 商场管理系统的实现\商场管理系统代码(需要mysql和navicat才能运行)\商铺管理系统\RoomRentSystem\obj\x86\Debug\RoomRentSystem.Userinf.resources
+C:\Users\63575\Desktop\课设 赵依静 2017060102001 商场管理系统的实现\商场管理系统代码(需要mysql和navicat才能运行)\商铺管理系统\RoomRentSystem\obj\x86\Debug\RoomRentSystem.Managerinf.resources
+C:\Users\63575\Desktop\课设 赵依静 2017060102001 商场管理系统的实现\商场管理系统代码(需要mysql和navicat才能运行)\商铺管理系统\RoomRentSystem\obj\x86\Debug\RoomRentSystem.Financeinf.resources
+C:\Users\63575\Desktop\课设 赵依静 2017060102001 商场管理系统的实现\商场管理系统代码(需要mysql和navicat才能运行)\商铺管理系统\RoomRentSystem\obj\x86\Debug\StoreSystem.csproj.GenerateResource.Cache
