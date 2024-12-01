@@ -1,6 +1,6 @@
 # Shopping-mall-management-system
 
-💡Abstrat:
+💡Abstract:
  
 The company has to keep up with the processing of large amounts of data. Data is used for things such as sales volume, sales, profits, shopping mall membership, storage of membership information and even for analysis of a particular product in the mall. As a result, a wide range of shopping malls have started to use intelligent management to enter the era of big data, however, the exponential growth of data is rapid and our data processing software must be constantly updated to meet the needs of data storage at this stage.
 The shopping centre management system is based on such a database model, where shop information is stored in a database based on E-R relationship diagrams and mysql software, and users are free to rent one or more shops, and monthly rent and various fees are saved by adding the information once and automatically deducted at the end of the month. The database queries are then imported into Visual Studio 2013, written with Net Framework and winform console statements connected, and graphically implemented using the DataGridView control.
